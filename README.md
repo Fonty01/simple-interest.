@@ -1,2 +1,2 @@
 # Simple Interest Calculator
-Script per calcolare l'interesse semplice.
+Questo progetto è uno script Bash che calcola **velocemente** l'interesse semplice.
